@@ -13,7 +13,7 @@ The workflow includes:
 - Model architecture design and training  
 - Experiment tracking using TensorBoard  
 - Pipeline creation and versioning with DVC  
-- Real-time inference via FastAPI with Swagger UI & Postman
+- Real-time inference via FastAPI with Swagger UI & Postman api.
 
 ---
 
